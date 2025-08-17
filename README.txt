@@ -1,5 +1,9 @@
 This repository contains the MATLAB code to solve the population dynamics model described in the research paper by Carbonari & Emmanuel (2025) on modeling pore size evolution during sandstone cementation.
 
+If you use this code please cite: 
+Carbonari, R., Emmanuel, S., 2025. Quantifying the impact of calcite and quartz 
+cementation patterns on pore size distributions in sandstone reservoirs:
+
 The code is run via the main file: optimization_code_ultim.m
 Additional files:
 init_pdf_N2.m - initial pore size distribution
@@ -8,3 +12,4 @@ compfunc_ultim.m - pde solver
 diffnorm_pores_ultim.m - calculation of norm
 
  
+
